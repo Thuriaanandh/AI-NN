@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+gymnasium==0.28.1
+stable-baselines3[extra]
+torch
+pillow
